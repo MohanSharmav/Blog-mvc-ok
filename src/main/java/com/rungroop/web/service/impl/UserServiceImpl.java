@@ -7,7 +7,6 @@ import com.rungroop.web.repository.RoleRepository;
 import com.rungroop.web.repository.UserRepository;
 import com.rungroop.web.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
